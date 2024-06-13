@@ -1,0 +1,65 @@
+.navbar {
+    
+    font-size: 23px;
+    opacity: 0.7;
+    background-color: white;
+} 
+#home {
+    background-image: url('../img/mountains.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-height: 600px;
+}
+.dark {
+    background-color: rgba(50,146,156,.7);
+    max-height: 600px;  
+}
+.nav-link {
+    color: #262C2D;
+}
+.nav-link:hover {
+    color: rgba(50,146,156,.7);
+}
+.padd {
+    padding-top: 100px;
+}
+.font{
+    font-size: 20px;
+}
+.jon {
+    margin-top: -60px;
+}
+.pad {
+    padding-bottom: 80px;
+}
+.fon {
+    font-size: 25px;
+}
+
+.fon {
+color: #3292A6;
+}
+
+}
+.wr {
+    font-size: 18px;
+}
+.pd {
+    padding-top: 150px;
+}
+.awe:hover {
+    color:  #fff;
+ }
+
+
+
+
+ .card:hover {
+    background-color: #3292A6;
+    color: white;
+
+    .fab {
+        color: #fff;
+    }
+}
